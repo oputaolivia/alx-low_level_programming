@@ -1,8 +1,9 @@
 #include <stdio.h>
 /**
-*main - main function
-*Return: end program
-*/
+ * main - main function
+ *
+ * Return: end program
+ */
 int main(void)
 {
 int a = 0;
@@ -14,7 +15,8 @@ while (b <= 9)
 {
 if (a < b)
 {
-if (coma == 0){
+if (coma == 0)
+{
 putchar(',');
 putchar(32);
 }
