@@ -3,7 +3,6 @@
 *main - main function
 *Return: end program
 */
-
 int main(void)
 {
 int a = 0;
