@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
 *main - function
-* 
+*
 *Return: end program
 *
 */
